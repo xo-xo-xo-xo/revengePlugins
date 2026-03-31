@@ -1,0 +1,1 @@
+{"name":"Fix Social Media Embeds","description":"Rewrites social media links to embed-friendly domains.","authors":[{"name":"You!","id":"YOUR_ID_HERE"}],"main":"index.js","vendetta":{"icon":"ic_link_24px"},"hash":"4ef605d10f3bd446544f7f76d73b6b597aad280e129b78027683f86a586fbbf3"}

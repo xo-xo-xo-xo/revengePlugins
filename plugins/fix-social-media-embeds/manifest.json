@@ -1,0 +1,14 @@
+{
+    "name": "Fix Social Media Embeds",
+    "description": "Rewrites social media links to embed-friendly domains.",
+    "authors": [
+        {
+            "name": "xo-xo-xo-xo",
+            "id": "770203704585486361"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "ic_link_24px"
+    }
+}
